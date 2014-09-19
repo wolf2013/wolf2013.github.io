@@ -4,10 +4,10 @@
       DELTA
     </title>
   </head>
-  <body background="delta.png">
+  <body>
     <pre>
 %!PS-Adobe-2.0
-%%Title: delta.ps
+%%Title: nobezier.ps
 %%Pages: 1 1
 %%EndComments
 
